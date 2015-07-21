@@ -5,7 +5,7 @@
 [Open Elections](https://github.com/openelections)
 
 ####Campaign Finance:
-[Open FEC](openfec.gov)]
+[Open FEC](openfec.gov)
 
 [FEC Standardizer](https://github.com/cjdd3b/fec-standardizer)
 
